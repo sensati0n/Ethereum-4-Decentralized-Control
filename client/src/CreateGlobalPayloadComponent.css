@@ -1,0 +1,18 @@
+.payload-container{
+    display: inline-flex;
+}
+
+.payload-type{
+    width: 160px;
+    margin: 2px;
+}
+
+.payload{
+    margin: 2px;
+}
+
+.payload-button button{
+    margin-left: 2px;
+    padding: 10px 32px;
+    margin-top: 2px;
+}
